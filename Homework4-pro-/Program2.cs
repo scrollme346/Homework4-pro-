@@ -60,7 +60,7 @@ class Program
         card1 += 500.0;
         card2 -= 200.0;
 
-        Console.WriteLine($"Баланс картки 1: {card1.Balance}");
-        Console.WriteLine($"Баланс картки 2: {card2.Balance}");
+        Console.WriteLine($"Баланс картки 1 : {card1.Balance}");
+        Console.WriteLine($"Баланс картки 2 : {card2.Balance}");
     }
 }
